@@ -29,6 +29,7 @@ alternative command:
 python main.py
 ```
 ## UML Diagram
+![uml_AnimalCrossRoad.png] ( {https://github.com/alvinyogakesuma/TUBES-PBO/blob/main/uml_AnimalCrossRoad.png} )
 
 ## Contributors
 
