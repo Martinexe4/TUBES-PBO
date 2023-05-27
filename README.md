@@ -16,6 +16,7 @@
 Animal Cross Road adalah suatu game dengan tujuan untuk menyeberangi jalan yang dipenuhi dengan mobil yang lewat. Game ini memiliki konsep yang mirip dengan game Varmintz.
 
 ## Library
+pygame
 
 ## How to Play
 <li> Install Python 3.6 or higher</li>
