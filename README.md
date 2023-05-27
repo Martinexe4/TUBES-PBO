@@ -1,4 +1,5 @@
 # Animal Cross Road
+<img width="960" alt="Game" src="https://github.com/alvinyogakesuma/TUBES-PBO/assets/117966064/0d75ae79-7f73-4712-bf3d-df7f679c0d57">
 
 # Table of Contents
 [Description](#description)
