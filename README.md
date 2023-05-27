@@ -2,9 +2,13 @@
 
 # Table of Contents
 [Description](#description)
+
 [Library](#library)
+
 [How to Play](#how-to-play)
+
 [UML Diagram](#uml-diagram)
+
 [Contributors](#contributors)
 
 ## Description
